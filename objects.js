@@ -2,6 +2,6 @@ var playlist = {
   BEP: "Pump it"
 };
 function updatePlaylist(object, key, value){
-  obj[key] = value
-  return obj
+  object[key] = value
+  return object
 }
