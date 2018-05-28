@@ -1,3 +1,3 @@
 var playlist = {
-  Black Eyed Peas: 'Pump it'
+  BEP: "Pump it"
 };
